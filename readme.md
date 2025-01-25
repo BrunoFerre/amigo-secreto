@@ -8,8 +8,8 @@ Este proyecto de "Amigo Secreto" permite organizar y realizar sorteos de amigo s
 - **Realizar Sorteo**: Realiza el sorteo de manera aleatoria y asigna a cada participante su amigo secreto.
 
 
-## Video Demostrativo
-[![Video Demostrativo](/assets/captura.png)](/assets/Amigo-secreto.mp4)
+## Imagen Ilustrativa
+[![Imagen Demostrativo](/assets/captura.png)]
 
 ## Instalación
 1. Clona el repositorio:
