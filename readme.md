@@ -9,7 +9,7 @@ Este proyecto de "Amigo Secreto" permite organizar y realizar sorteos de amigo s
 
 
 ## Imagen Ilustrativa
-[![Imagen Demostrativo](/assets/captura.png)]
+![Imagen Demostrativo](/assets/captura.png)
 
 ## Instalación
 1. Clona el repositorio:
