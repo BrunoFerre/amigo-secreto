@@ -132,6 +132,7 @@ ul {
     font-family: "Inter", sans-serif;
     font-size: 18px;
     margin: 20px 0;
+    text-transform: uppercase;
 }
 
 .result-list {
@@ -140,6 +141,9 @@ ul {
     font-size: 22px;
     font-weight: bold;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    text-transform: uppercase;
 }
 
 /* Botón de sortear título */
